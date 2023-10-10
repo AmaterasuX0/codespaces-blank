@@ -1,0 +1,149 @@
+OBJETOS CREADOS
+ji:{Nombre:"League of Legends"|Developer:"Riot Games"|Edad;13|Precio:0|Genero:"MOBA"}
+j2:{Nombre:"GTA V"|Developer:"Rockstar Games"|Edad;18|Precio:28000|Genero:"Open World"}
+j3:{Nombre:"Minecraft"|Developer:"Mojang Studios"|Edad;10|Precio:20000|Genero:"Survival"}
+j4:{Nombre:"God of War"|Developer:"Santa Monica Studio"|Edad;18|Precio:35000|Genero:"Accion"}
+j5:{Nombre:"GTA San Andreas"|Developer:"Rockstar Games"|Edad;18|Precio:10000|Genero:"Open World"}
+j6:{Nombre:"The Witcher 3: Wild Hunt"|Developer:"CD Projekt"|Edad;18|Precio:16300|Genero:"Rol de Accion"}
+j7:{Nombre:"The Elder Scrolls V:Skyrim"|Developer:"Bethesda"|Edad;18|Precio:26990|Genero:"Rol de Accion"}
+j8:{Nombre:"FIFA 24"|Developer:"EA Sports"|Edad;8|Precio:55990|Genero:"Deportes"}
+j9:{Nombre:"Marvel's Spiderman"|Developer:"Insomniac Games"|Edad;13|Precio:42|Genero:"Accion"}
+j10:{Nombre:"NBA 2K24"|Developer:"2K Games"|Edad;8|Precio:48990|Genero:"Deportes"}
+j11:{Nombre:"DOTA 2"|Developer:"Valve Corporation"|Edad;13|Precio:0|Genero:"MOBA"}
+j12:{Nombre:"World of Warcraft"|Developer:"Blizzard Entertainment"|Edad;13|Precio:10000|Genero:"MMO"}
+j13:{Nombre:"Lost Ark"|Developer:"Tripod Studio"|Edad;18|Precio:0|Genero:"MMO"}
+j14:{Nombre:"Call of Duty:Black Ops 2"|Developer:"Treyarch"|Edad;18|Precio:32900|Genero:"FPS"}
+j15:{Nombre:"Counter Strike"|Developer:"Valve Corporation"|Edad;18|Precio:4400|Genero:"FPS"}
+j16:{Nombre:"The Talos Principle"|Developer:"Croteam"|Edad;13|Precio:15500|Genero:"PUZZLE"}
+j17:{Nombre:"Portal 2"|Developer:"Valve Corporation"|Edad;10|Precio:5750|Genero:"PUZZLE"}
+j18:{Nombre:"Rust"|Developer:"Facepunch Studios"|Edad;18|Precio:17900|Genero:"Survival"}
+j19:{Nombre:"Sims 4"|Developer:"Maxis"|Edad;8|Precio:0|Genero:"Simulacion"}
+j20:{Nombre:"Football Manager 2023"|Developer:"British developer Sports Interactive"|Edad;8|Precio:39000|Genero:"Simulacion"}
+
+n1:{Nombre: Google Chrome|Developer: Google|Edad: 0|Precio: 0}
+n2:{Nombre: Mozilla Firefox|Developer: Mozilla|Edad: 0|Precio: 0}
+
+o1:{Nombre: Power Point|Developer: Microsoft|Edad: 0|Precio: 139990}
+o2:{Nombre: Google Drive|Developer: Google|Edad: 0|Precio: 7990}
+o3:{Nombre: Outlook|Developer: Microsoft|Edad: 0|Precio: 0}
+o4:{Nombre: Microsoft Word|Developer: Microsoft|Edad: 0|Precio: 139990}
+o5:{Nombre: Microsoft Excel|Developer: Microsoft|Edad: 0|Precio: 139990}
+
+p1:{Nombre: Youtube|Developer: Google|Edad: 18|Precio: 0|Solucion: Video}
+p2:{Nombre: Spotify|Developer: Martin Lorentzon|Edad: 18|Precio: 0|Solucion: Musica}
+p3:{Nombre: Twitch|Developer: Justin Kan|Edad: 18|Precio: 0|Solucion: Streaming}
+p4:{Nombre: Instagram|Developer: Kevin Systorm|Edad: 18|Precio: 0|Solucion: Fotos}
+
+ss1:{Nombre: Facebook|Developer: Mark Zuckerberg|Edad: 13|Precio: 0}
+ss2:{Nombre: Twitter|Developer: Jack Dorsey|Edad: 13|Precio: 0}
+
+s1:{Nombre: Kapersky|Developer: Eugene Kapersky|Edad: 0|Precio: 0|Tipo de seguridad: Troyano}
+s2:{Nombre: Avast|Developer: Pavel Daubis|Edad: 0|Precio: 0|Tipo de seguridad: Spyware}
+s3:{Nombre: AVG|Developer: AVG Technologies|Edad: 0|Precio: 0|Tipo de seguridad: Botnet}
+s4:{Nombre: Avira|Developer: Tjark Auerbach|Edad: 0|Precio: 0|Tipo de seguridad: rootkit}
+s5:{Nombre: Microsoft Security Essentials|Developer: Microsoft|Edad: 0|Precio: 0|Tipo de seguridad: gusano}
+s6:{Nombre: McAfee|Developer: John McAfee|Edad: 0|Precio: 0|Tipo de seguridad: Ransomware}
+
+//usuario 1 se le agrega j1 y navegador n1 a la biblioteca
+u1:{Nombre: Jorge Diaz|Contraseña: 123jd123|Edad: 18|Email: georgeday@hotmail.com|Tipo de Usuario: admin}
+//usuario 2 se le agrega p2,ss1,j2 a la biblioteca
+u2:{Nombre: Juan Jeus|Contraseña: jj-0.|Edad: 22|Email: yonyisusgmail.com|Tipo de Usuario: normal}
+//usuario 3 se le agrega j20, j17 y seguridad s3 a la biblioteca
+u3:{Nombre: Patricia Perez|Contraseña: PPpp.23|Edad: 23|Email: paty23@hotmail.com|Tipo de Usuario: normal}
+//usuario 4 se le agrega p4 a la biblioteca
+u4:{Nombre: andresito|Contraseña: 123456789|Edad: 18|Email: aghost@hotmail.com|Tipo de Usuario: normal}
+//usuario 5 j15 y j13 a la biblioteca
+u5:{Nombre: pepe grillo|Contraseña: del1al9|Edad: 18|Email: ppgriyo1@gmail.com|Tipo de Usuario: normal}
+//usuario 6 social ss2 a la biblioteca 
+u6:{Nombre: undertaker|Contraseña: deadman|Edad: 18|Email: umdertarkerwwe@hotmail.com|Tipo de Usuario: normal}
+//usuario 7 se le agrega o3 a su biblioteca 
+u7:{Nombre: darth vader|Contraseña: padme<3|Edad: 42|Email: lordsith@gmail.com|Tipo de Usuario: normal}
+//usuario 8 se le agrega j7 y j3 as u biblioteca 
+u8:{Nombre: anakin skywalker|Contraseña: masternot|Edad: 22|Email: a&p4e@hotmail.com|Tipo de Usuario: normal}
+//usuario 9 se le agrega seguridad s3 a su biblioteca 
+u9:{Nombre: Itachi Uchiha|Contraseña: amaterasu|Edad: 21|Email: itachianbu@gail.com|Tipo de Usuario: normal}
+//usuario 10 se le agrega social ss3 a su biblioteca
+u10:{Nombre: Pablo Diaz|Contraseña: ContraseñaSegura.0|Edad: 33|Email: pablouu1@gmail.com|Tipo de Usuario: normal}
+//usuario 11 se le agrega j9 a su biblioteca 
+u11:{Nombre: Alexis Sanchez|Contraseña: atomhumber|Edad: 16|Email: as9@hotmail.com|Tipo de Usuario: normal}
+//usuario 12 se le agrega p3 a su biblioteca 
+u12:{Nombre: Mati Fernandez|Contraseña: 14delosblancos|Edad: 18|Email: georgeday@hotmail.com|Tipo de Usuario: normal}
+//usuario 13 se le agrega j11 a su biblioteca 
+u13:{Nombre: Chupete Suazo|Contraseña: venidodelplanetagol|Edad: 14|Email: chupetesuazo@hotmail.com|Tipo de Usuario: normal}
+//usuario 14 se le agrega o2 a su biblioteca 
+u14:{Nombre: Lionel Messi|Contraseña: liomesi10|Edad: 17|Email: soymesi@gmail.com|Tipo de Usuario: normal}
+//usuario 15 se le agrega p1 a su  biblioteca 
+u15:{Nombre: Cristiano Ronaldo|Contraseña: elbicho|Edad: 13|Email: cr7rm@hotmail.com|Tipo de Usuario: normal}
+
+
+Diccionario de Clases
+Clase Software:
+    private:
+        string nombre:
+        string developer:
+        int edad:
+        int precio:
+    public:
+        -----
+Clase juego:software
+    private:
+        string genero://genero del juego
+    public:
+        toString()//Funcion que imprime todos los datos de cada software
+        jugar()//Imprime jugando... y el nombre del juego.
+Clase navegador:software
+    private:
+        vector<string>historial;
+Clase Ofimatica:software
+    private:
+        int cantidad://cantidad de archivos
+    public:
+        usar()//imprime usando.. y nombre del programa.
+Clase Produccion:software
+    private:
+        string solucion://tipo de solucion
+    public:
+        voir producir(int edad//utiliza la edad del usuario para comprobar si este puede usar un programa. Imprime usando.. y nombre de programa)
+Clase Seguridad:software
+    private:
+        string tipo//tipo de seguridad que entrega el software.
+    public:
+        usar(string usertype)//utiliza el tipo de usuario de quien la utiliza, de no ser admin imprime que no se puede acceder a el-
+Clase social:software
+    private:
+        int cantamigos//cantidad de amigos
+    public;
+        usar()//imprime usando y el nombre del programa.
+Clase biblioteca
+    private:
+        vector<juego>listaJuegos;//vector de juegos
+        vector<ofimatica>listaOfimatica;//vector de ofimatica
+        vector<produccion>listaProd;//vector de produccion
+        vector<navegador>listaNav;//vector de navegadores
+        vector<social>listaSocial;//vector de software social
+        vector<seguridad>listaSeg;//vector de seguridad:
+    public:
+        void addNewSoftware();//mediante ingresos por consola, se crean nuevos software y se añaden a la biblioteca.
+        void addGame(juego);//Recibe un juego y lo añade a la listaJuegos de la biblioteca
+        void addOfi(ofimatica);//recibe un ofimatico y lo añade a la lista de ofimatica
+        void addProd(produccion);//recibe un software de produccion y lo añade a la listaProd de la biblioteca
+        void addNav(navegador);//recibe un navegador y lo añade a la listaNav de la biblioteca
+        void addSocial(social);//recibe un software social y lo añade a la listaSocial de la biblioteca
+        void addSeg(seguridad);//recibe un software de seguridad y lo añade a la listaSeg de la biblioteca
+        void getSoftware();//imprime los software por tipo
+        void deleteSoftware();//borra software
+        void useSoftware(int,string);//usa software mediante las funciones usar de cada tipo
+
+
+int login(vector<user>listaUsuarios):
+funcion que permite el inicio de sesion, retorna el indice del usuario en cuestion dentro 
+de la listaUsuarios.
+log: indice inicializado en 0, si no encuentra al usuario retorna -1, si lo encuentra retorna su posicion;
+void menu(biblioteca bgeneral,vector<user>lu):
+Inicializa el menu.
+bgeneral: biblioteca
+lu: lista de usuarios.
+opt: opcion escogida por el usuario
+
+Orden de compilacion
+Software--->Biblioteca---->user
